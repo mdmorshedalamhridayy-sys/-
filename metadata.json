@@ -1,0 +1,5 @@
+{
+  "name": "Al-Mumin: All-in-One Islamic App",
+  "description": "A comprehensive Islamic companion app featuring prayer times, Quran with translations and audio, Hadith collection, Qibla compass, and digital Tasbih.",
+  "requestFramePermissions": ["geolocation"]
+}
